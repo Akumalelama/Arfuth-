@@ -1,0 +1,11 @@
+{
+    "name": "Arfuth",
+    "version": "1.0.0",
+    "description": "",
+    "main": "RPG.js",
+    "author": "Akumalelama",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js" "^11.2.1"
+    }
+}
